@@ -1,0 +1,39 @@
+{
+    "logo": {
+        "url": "/images/Mantis2019FinalWhite_1_optimized.png",
+        "altText": "Logo light",
+        "type": "ImageBlock"
+    },
+    "text": "The Trusted AV Integration Solutions Provider.\n",
+    "socialLinks": [
+        {
+            "altText": "LinkedIn link",
+            "url": "https://www.linkedin.com/company/mantisaudiovisual",
+            "icon": "linkedin",
+            "type": "Social"
+        }
+    ],
+    "legalLinks": [
+        {
+            "label": "",
+            "url": "/",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        }
+    ],
+    "copyrightText": "© 2024 Mantis Audiovisual. All rights reserved.\nAll brand names, product names, and trademarks are the property of their respective owners. Certain trademarks, registered trademarks, and trade names may be used on this page to refer to either the entities claiming the marks and names or their products. Mantis Audiovisual disclaims any proprietary interest in the marks and names of others.\n",
+    "colors": "bg-dark-fg-light",
+    "type": "Footer",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-2",
+                "pl-3",
+                "pb-0",
+                "pr-3"
+            ]
+        }
+    }
+}
